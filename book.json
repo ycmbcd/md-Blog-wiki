@@ -1,0 +1,58 @@
+{
+    "title": "md-Blog说明文档",
+    "author": "ycmbcd",
+    "description": "md-Blog说明文档，二次开发。",
+    "language": "zh-hans",
+    "gitbook": ">=3.0.0",
+    "structure": {
+        "readme": "README.md"
+    },
+    "styles": {
+        "website": "book.css"
+    },
+    "plugins": [
+        "highlight",
+        "autotheme",
+        "-sharing",
+        "sharing-plus",
+        "fontsettings",
+        "github",
+        "splitter",
+        "anchors",
+        "back-to-top-button",
+        "insert-logo"
+    ],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "https://www.ycmbcd.com/wiki/images/logo.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "github": {
+            "url": "https://github.com/ycmbcd/md-Blog"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": true,
+            "pocket": true,
+            "qq": true,
+            "qzone": true,
+            "twitter": false,
+            "weibo": true,
+            "all": [
+                "douban",
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    }
+}
