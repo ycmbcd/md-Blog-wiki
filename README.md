@@ -1,3 +1,5 @@
+![welcome](./images/wiki.png)
+
 # # 欢迎使用 md-Blog
 
 > md-Blog，一款基于.md文件生成的MarkDown博客系统。
