@@ -12,7 +12,6 @@
     },
     "plugins": [
         "highlight",
-        "autotheme",
         "-sharing",
         "sharing-plus",
         "fontsettings",
