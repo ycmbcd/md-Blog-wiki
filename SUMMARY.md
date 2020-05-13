@@ -10,6 +10,8 @@
     * [使用](./base/usage.md)
     * [修改/忘记密码](./base/forget.md)
 * [博客设置](./skills/index.md)
+    * [添加视频播放](./skills/video.md)
+    * [添加音频播放](./skills/audio.md)
     * [添加百度统计](./skills/baidu.md)
     * [谷歌广告联盟](./skills/google.md)
     * [畅言评论](./skills/changyan.md)
